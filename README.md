@@ -2,7 +2,7 @@
 
 - Class Date: July 10 - 12, 2023
 - Facilitator: Rama
-- Trainnes : Add your name here
+- Trainnes : bot
 
 ## Class Resources
 
