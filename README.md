@@ -1,7 +1,8 @@
 # GitHub for Developers
 
 - Class Date: July 10 - 12, 2023
-- Facilitator: @claire-gallesio
+- Facilitator: Rama
+- Trainnes : Add your name here
 
 ## Class Resources
 
